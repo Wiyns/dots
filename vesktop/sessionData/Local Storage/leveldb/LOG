@@ -1,0 +1,8 @@
+2024/12/26-17:11:42.767 390 Reusing MANIFEST /home/texan/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/12/26-17:11:42.849 390 Recovering log #116
+2024/12/26-17:11:42.870 390 Level-0 table #119: started
+2024/12/26-17:11:42.885 390 Level-0 table #119: 34498 bytes OK
+2024/12/26-17:11:42.886 390 Recovering log #119
+2024/12/26-17:11:42.888 390 Reusing old log /home/texan/.config/vesktop/sessionData/Local Storage/leveldb/000119.log 
+2024/12/26-17:11:42.898 390 Delete type=0 #116
+2024/12/26-17:11:42.899 390 Delete type=2 #120

@@ -1,0 +1,13 @@
+{
+    "firstLaunch": false,
+    "windowBounds": {
+        "x": 0,
+        "y": 42,
+        "width": 1366,
+        "height": 726
+    },
+    "displayid": 65,
+    "maximized": true,
+    "minimized": false,
+    "vencordDir": "/usr/lib/vencord"
+}
